@@ -1,0 +1,83 @@
+@font-face {
+    font-family: 'Barlow';
+    src: url(../tipografias/Barlow/Barlow-Black.ttf);
+}
+@font-face {
+    font-family: 'Barlow';
+    src: url(../tipografias/Barlow/Barlow-Light.ttf);
+    font-weight: 300;
+}
+
+header{
+    background: linear-gradient( #8CCDC8, #8C87C0);
+    color: black;
+    background-repeat: no-repeat;
+    background-size: 100% 90%;
+}
+
+
+h3 {
+    padding-left: 120px;
+  margin-top: 30px;
+  font-family: Barlow;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20px;
+}
+
+h1 {
+    padding-left: 120px;
+    font-family: Barlow;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+}
+ 
+h2 {
+    padding-left: 120px;
+    font-family: Barlow;
+    font-style: italic;
+    font-weight: lighter;
+    font-size: 14px;
+    margin-bottom: 30px;
+}
+ 
+img { 
+    width: 300px;
+}
+/* 
+#navegador li{
+    list-style-type: none;
+    margin-top: 0px;
+    padding-top: 0px;
+    display: inline;
+    text-decoration: none;
+    color: black;
+    justify-content: center;
+ } */
+
+ #botonperfil{ 
+ margin-left: 120px;
+    font-family: Barlow;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    margin-bottom: 30px;
+    padding: 8px; 
+    padding-left: 30px;   
+    padding-right: 30px;
+}
+#menu{ 
+
+padding-right: 50px;
+background-color: #DFEFEF;
+
+}
+
+#imglogo{ 
+    background-color: #DFEFEF;
+width: 90px; 
+margin-left: 120px;
+margin-bottom: 0px;
+padding-bottom: 0px;
+}
